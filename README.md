@@ -1,6 +1,6 @@
 # MAGI
 
-**MAGI(Motitoring Assistant for Guided Interaction)**は、リアルタイムで会話をモリタニングし、常に3つの質問または提案を提示する対話支援システムです。
+**MAGI(Motitoring Assistant for Guided Interaction)** は、リアルタイムで会話をモリタニングし、常に3つの質問または提案を提示する対話支援システムです。
 会話の内容を聞き取り、要約・解析し、ユーザーの会話をよりスムーズに、知的にサポートします。
 
 ---
